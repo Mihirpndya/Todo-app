@@ -1,4 +1,4 @@
-##This is Todo app
+# This is Todo app
 it has the following features
 - anyone can create a todo
 - anyone can view a todo
