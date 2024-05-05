@@ -1,0 +1,14 @@
+{
+  "name": "todo-app-v1",
+  "version": "1.0.0",
+  "description": "this is th verssion one of the subsequent projects that are going to be built",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mihir-pandya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
