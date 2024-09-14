@@ -9,10 +9,15 @@ const todoSchema = mongoose.Schema({
 });
 //sunny was here 2nd time
 const todoModel = mongoose.model('todo', todoSchema);
+
 //sunny 3rd time
+
+//.
+
 module.exports = {
     todoModel,
 }
 
 
 //sunny was here
+//mihir was here
