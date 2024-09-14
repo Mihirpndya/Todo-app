@@ -7,7 +7,7 @@ const todoSchema = mongoose.Schema({
     description: String,
     completed: Boolean,
 });
-
+//sunny was here 2nd time
 const todoModel = mongoose.model('todo', todoSchema);
 
 module.exports = {
